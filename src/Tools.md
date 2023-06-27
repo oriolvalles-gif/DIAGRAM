@@ -46,4 +46,6 @@ Because we're not hindered by word processor software like Microsoft Word we can
   
   ![MarkdownAllinOne](./images/code_markdownallinone.png "Markdown All in One")
  
+## ShareX
 
+A general usefull tool for taking snapshots and whatnot is [ShareX](https://getsharex.com/downloads)
