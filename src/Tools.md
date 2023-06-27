@@ -18,6 +18,12 @@ git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ```
 
+## Docker and PlantUML server container
+
+For installation of Docker and the PlantUML server container follow indstructions of the screenshots `01 .. ` to `11 .. ` in the folder `src/images/docker_install`. Because the PlantUML server container exposes port `8080` as standard, you can access the container by opening a new internet client and go to the adress http://localhost:8080 to use the server.
+
+If you have trouble accessing the container due to possibly other servers using the localhost 8080 port, please follow instructions of images `12 .. ` and `13 .. ` to change the port.
+
 ## Visual Studio Code
 
 For writing the documentation we'll use Microsoft's Visual Studio Code. This is an IDE with various plug-ins that will help with the writing process.
