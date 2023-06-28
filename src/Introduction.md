@@ -5,6 +5,6 @@ For technical projects where communication between different systems defines a l
 This guide will show you how to set up a minimal system with which you can maintain your documentation about a project.
 
 Used in this guide:
-* GIT
-* mdBook
+* Git
 * Visual Studio Code
+* Docker
