@@ -1,6 +1,6 @@
 # Usage
 
-This chapter will give you instructions on how to use the described tools. You are reading a static generated site. This is OK for now to get you started. For the next part we will start using Git to download the repository that will generate a dynamic site 
+This chapter will give you instructions on how to use the described tools. You are reading a static generated site. This is OK for now to get you started. For the next part we will start using Git to download the repository that will generate a dynamic site.
 
 ## Create a PlantUML picture
 
@@ -20,7 +20,7 @@ This chapter will give you instructions on how to use the described tools. You a
 
 - a preview window on the right should open, showing a sequence diagram showing Bert and Ernie talking
   
-  ```
+  ```plantuml
   @startuml bert_and_ernie
   
   skinparam backgroundColor transparent
@@ -48,7 +48,9 @@ More exact info will follow on a way that this process _can_ work. But for start
   ```
   ![](images/powershell_git_clone.png)
 - cd into the newly created directory, and open the directory with `VS Code` or open the folder from within `VS Code`
-  ![](images/open_repository.png)
+  
+  ![open_repository_with_vscode](images/open_repository.png)
+
   or
 
-  ![](images/code_open_folder.png)
+  ![open_repositort_within_vscode](images/code_open_folder.png)
