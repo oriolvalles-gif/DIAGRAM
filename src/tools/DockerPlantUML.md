@@ -14,4 +14,4 @@ If you have trouble accessing the container due to possibly other servers using 
 - Choose `PlantUMLServer` for renderer.
 - Change the URL of the server to the correct adress of the PlantUML server docker container.
 
-Try [making a very simple diagram ](../../Usage.md#create-a-plantuml-picture)
+Try [making a very simple diagram ](../usage/PlantUML.md)
