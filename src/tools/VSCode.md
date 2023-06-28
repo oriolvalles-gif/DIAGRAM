@@ -7,15 +7,15 @@ Because we're not hindered by word processor software like Microsoft Word we can
 - Open Microsoft Visual Studio Code (from now on abbreviated as `VS Code`).
 - Open the `Extensions` tab on the left and search for packages that will help with the workflow.
  
-  ![Extensions](../../images/code_extensions.png "Visual Code Extensions")
+  ![Extensions](code_extensions.png "Visual Code Extensions")
 - Install `PlantUML`
   
-  ![PlantUML](../../images/code_plantuml.png "PlantUML")
+  ![PlantUML](code_plantuml.png "PlantUML")
 
 - Install `GitLens`
 
-  ![GitLens](../../images/code_gitlens.png "GitLens")
+  ![GitLens](code_gitlens.png "GitLens")
 
 - Install `Markdown All in One`
   
-  ![MarkdownAllinOne](../../images/code_markdownallinone.png "Markdown All in One")
+  ![MarkdownAllinOne](code_markdownallinone.png "Markdown All in One")

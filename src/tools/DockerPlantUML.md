@@ -9,7 +9,7 @@ If you have trouble accessing the container due to possibly other servers using 
 - in `VS Code` open the settingd by `CRTL` + `,`
 - search for `plantuml` in the search box
   
-  ![VSCodePlantUmlSetting](../../images/code_plantuml_settings.png "PlantUML settings")
+  ![VSCodePlantUmlSetting](code_plantuml_settings.png "PlantUML settings")
 
 - Choose `PlantUMLServer` for renderer.
 - Change the URL of the server to the correct adress of the PlantUML server docker container.
