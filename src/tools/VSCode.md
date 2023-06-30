@@ -22,6 +22,8 @@ Because we're not hindered by word processor software like Microsoft Word we can
 
 # Setup of PlantUML extension
 
+Instead of using the demo webserver of the PlantUML organisation, the PlantUML extension can use a local server. This can only be done if you have correctly [installed Docker](Docker.md) and also [installed the PlantUML server container](PlantUMLserver.md) (O r if you're a PRO installed the PlantUML server in your own way.)
+
 - in `VS Code` open the settingd by `CRTL` + `,`
 - search for `plantuml` in the search box
   
