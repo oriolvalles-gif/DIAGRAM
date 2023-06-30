@@ -19,3 +19,15 @@ Because we're not hindered by word processor software like Microsoft Word we can
 - Install `Markdown All in One`
   
   ![MarkdownAllinOne](code_markdownallinone.png "Markdown All in One")
+
+# Setup of PlantUML extension
+
+- in `VS Code` open the settingd by `CRTL` + `,`
+- search for `plantuml` in the search box
+  
+  ![VSCodePlantUmlSetting](code_plantuml_settings.png "PlantUML settings")
+
+- Choose `PlantUMLServer` for renderer.
+- Change the URL of the server to the correct adress of the PlantUML server docker container.
+
+Try [making a very simple diagram ](../usage/PlantUML.md)
