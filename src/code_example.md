@@ -1,14 +1,9 @@
-# Introduction
+# Example diagram code
 
-For technical projects where for example communication between different systems, or automated functions have to be defined, pictures say more than a thousand words. What you design will be used by your colleagues, reviewed by your teachers, or used by your future self. So properly communicating your ideas is important.
-
-To give you an idea on what you can do in approximately 30 lines of text:
-
-```plantuml
+```
 @startuml pickup_parcel_from_coveyor
 skinparam backgroundColor transparent
 left to right direction
-'skinparam linetype ortho
 
 component box_pickup_application {
     

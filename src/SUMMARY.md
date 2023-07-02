@@ -1,6 +1,8 @@
 # Summary
 
 - [Introduction](./Introduction.md)
+  - [Example diagram code](./code_example.md)
+  - [Advantages](./advantages.md)
 - [Tools](./Tools.md)
   - [Git](./tools/Git.md)
   - [Docker](./tools/Docker.md)
