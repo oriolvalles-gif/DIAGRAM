@@ -1,6 +1,6 @@
 # PlantUML
 
-## Create a PlantUML picture
+## Create a PlantUML diagram
 
 - In `VS Code` create a new file with an extension of one of the following `.wsd,.pu,.puml,.plantuml,.iuml`
 - Add the following syntax to that file:

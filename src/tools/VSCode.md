@@ -32,4 +32,4 @@ Instead of using the demo webserver of the PlantUML organisation, the PlantUML e
 - Choose `PlantUMLServer` for renderer.
 - Change the URL of the server to the correct adress of the PlantUML server docker container.
 
-Try [making a very simple diagram ](../usage/PlantUML.md)
+Try [making a very simple diagram ](../usage/PlantUML.md#create-a-plantuml-diagram)
