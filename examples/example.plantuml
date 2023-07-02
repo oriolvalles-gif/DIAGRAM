@@ -5,3 +5,40 @@ Bert->Ernie : Hey Ernie
 
 @enduml
 
+@startuml palletizer
+
+component box_pickup_application {
+    
+    [frame]
+    () placement -r- frame
+
+    [robot]
+    [sensor]
+
+    robot -> placement
+    () input_0 -l- robot
+    () output_0 -r- robot
+    sensor -l-> input_0 : connected
+
+    [cabinet]
+    () "robot\npower" -- cabinet
+    () "conveyor\npower" -d- cabinet
+    cabinet --> placement
+    robot --> "robot\npower"
+    cabinet -r-> output_0
+    
+    [conveyor]
+    () "sensor\nposition" - conveyor
+    conveyor -> placement
+    conveyor --> "conveyor\npower"
+    sensor -> "sensor\nposition"
+}
+
+[building]
+() energy -u- building
+() location -u- building
+
+frame -u-> location
+cabinet -d-> energy
+
+@enduml
