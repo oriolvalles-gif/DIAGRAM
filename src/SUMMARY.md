@@ -8,6 +8,7 @@
   - [Docker](./tools/Docker.md)
   - [PlantUML server](./tools/PlantUMLserver.md)
   - [Visual Studio Code](./tools/VSCode.md)
+  - [mdBook](./tools/mdBook.md)
 - [Usage](./Usage.md)
   - [Git clone](./usage/Git.md)
   - [PlantUML render example](./usage/PlantUML.md)

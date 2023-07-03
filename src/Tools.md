@@ -6,6 +6,7 @@ To get started, you'll need to install Visual Studio Code, GIT, Docker and mdBoo
 - [Docker](./tools/Docker.md)
 - [PlantUML server](./tools/PlantUMLserver.md)
 - [Visual Studio Code](./tools/VSCode.md)
+- [mdBook](./tools/mdBook.md)
 
 ## ShareX
 
