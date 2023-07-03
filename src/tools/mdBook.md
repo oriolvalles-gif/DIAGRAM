@@ -25,4 +25,4 @@ These instructions do not cover running mdBook on Linux or with a Docker image. 
 
 For creating PlantUML diagrams a plugin for mdBook is needed.
 - Download the `mdbook-plantuml.exe` from [https://github.com/sytsereitsma/mdbook-plantuml/releases](https://github.com/sytsereitsma/mdbook-plantuml/releases).
-- copy this file to the location of the mdbook executable. The path you have just added in the instructions above.
+- copy this file to the location of the mdbook executable. The directory location you have just added to the `PATH` in the instructions above.

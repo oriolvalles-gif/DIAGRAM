@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Tools for documenting in Industrial Automation"
+
+[preprocessor.plantuml]
+plantuml-cmd="http://localhost:8080"
+
+[output.html]
+default-theme = "Rust"

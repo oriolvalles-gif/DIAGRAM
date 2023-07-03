@@ -12,3 +12,4 @@
 - [Usage](./Usage.md)
   - [Git clone](./usage/Git.md)
   - [PlantUML render example](./usage/PlantUML.md)
+  - [mdBook](./usage/mdBook.md)
