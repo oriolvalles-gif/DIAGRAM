@@ -2,7 +2,8 @@
 
 - [Introduction](./Introduction.md)
   - [Example diagram code](./code_example.md)
-  - [Advantages](./advantages.md)
+  - [Advantages](./advantages.md),
+  - [This guide...](./this_guide.md)
 - [Tools](./Tools.md)
   - [Git](./tools/Git.md)
   - [Docker](./tools/Docker.md)

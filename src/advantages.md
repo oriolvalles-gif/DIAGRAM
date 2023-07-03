@@ -12,15 +12,4 @@ Creating diagrams this way has advantages:
   
   During a project specs or implementations tend to change when deeper insight comes. So focussing on content instead of prettieness saves lots of time. You'll be changing your diagrams frequently.
 - Using plain text makes for easy version control.
-- Using a version control system enables working simultaneous and together on a project.
-
-This guide will show you how to set up a minimal system with which you can maintain your documentation about a project.
-
-During this guide you will have to create your own local setup. When done successfully additional instructions for other tools, tips and tricks etcetera will appear.
-
-For example:
-- How to work together on a project by using Git.
-- Learn about branching and merging branches.
-- Excersize creating pull requests to your team's repository.
-- Creating Sequence diagrams, State machines.
-- Tips and tricks when working with Visual Studio Code.
+- Using a version control system enables working simultaneous on a project.
