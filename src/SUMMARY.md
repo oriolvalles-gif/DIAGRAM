@@ -14,3 +14,6 @@
   - [Git clone](./usage/Git.md)
   - [PlantUML render example](./usage/PlantUML.md)
   - [mdBook](./usage/mdBook.md)
+- [Examples](./Examples.md)
+  - [Forking a repository](./examples/Forking.md)
+  - [Collaborating](./examples/Collaborating.md)
