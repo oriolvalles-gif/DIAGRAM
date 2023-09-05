@@ -1,4 +1,4 @@
-# Examples
+# Excersizes
 
 This chapter contains examples that you can use as a starting point.
 
