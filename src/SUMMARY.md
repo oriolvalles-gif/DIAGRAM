@@ -15,5 +15,6 @@
   - [PlantUML render example](./usage/PlantUML.md)
   - [mdBook](./usage/mdBook.md)
 - [Exersizes](./Exersizes.md)
+  - [Creating a repository](./exersizes/Creating.md)
   - [Forking a repository](./exersizes/Forking.md)
   - [Collaborating](./exersizes/Collaborating.md)

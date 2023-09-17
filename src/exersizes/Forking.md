@@ -12,7 +12,7 @@ left to right direction
 :team\nmember:
 
 ':you: -> (upstream\nrepository)
-:you: -> (forked\nrepository)
+:you: -> (my own forked\nrepository)
 :you: -> (clone\nrepository\nlocally)
 :team\nmember: -> (clone\nrepository\nlocally)
 :you: -> (push\nmodified\nrepository)
