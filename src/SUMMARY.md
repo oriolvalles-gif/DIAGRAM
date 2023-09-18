@@ -17,4 +17,6 @@
 - [Exersizes](./Exersizes.md)
   - [Creating a repository](./exersizes/Creating.md)
   - [Forking a repository](./exersizes/Forking.md)
+  - [Committing a change](./exersizes/Committing.md)
+  - [Creating a branch](./exersizes/Branching.md)
   - [Collaborating](./exersizes/Collaborating.md)
