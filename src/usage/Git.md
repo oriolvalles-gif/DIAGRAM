@@ -5,7 +5,7 @@ By cloning a Git repository (repo) you will create a local (on your computer) Gi
 More exact info will follow on a way that this process _can_ work. But for starters you have to do the following to obtain a local copy of the repo:
 
 - Create a [Github account](https://github.com/signup?)
-- Log into your account and go to the user you want to clone a repository from (for this example, use the [this documentation tutorial](https://github.com/beeduhbee/technical_documentation_how_to))
+- Log into your account and go to the user you want to clone a repository from (for this example, use the [this documentation tutorial](https://github.com/m-inau/technical_documentation_how_to))
 - In github, clone the repository to your own github account by using the `Fork` button.
 - Open Powershell or any other console.
 - Create/move to a directory in which you want to have this repository.
