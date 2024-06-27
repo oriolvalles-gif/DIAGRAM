@@ -17,7 +17,7 @@ These instructions do not cover running mdBook on Linux or with a Docker image. 
   ![advances_system_properties](./system_properties_advanced.png)
 - Select the `Path` environment variable.
   ![environment_variables](./environment_variables.png)
-- Click `New` and paste the location of the folder containing the `mdBook` program that you've just moved to `C:\Program Files`. In my case it's `C:\Program Files\mdbook-v0.4.30-x86_64-pc-windows-msvc`
+- Click `Edit` and in the newly appeared window `New` and paste the location of the folder containing the `mdBook` program that you've just moved to `C:\Program Files`. In my case it's `C:\Program Files\mdbook-v0.4.30-x86_64-pc-windows-msvc`
   ![path](./path.png)
 - Click `OK` and close the control panel windows.
 
