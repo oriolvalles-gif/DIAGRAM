@@ -1,1 +1,4 @@
-For better readability of this repo please visit [the HTML rendering of `Technical documentation how to`](https://m-inau.github.io/technical_documentation_how_to_/)
+# technical_documentation_how_to
+
+Tutorial and tools on technical documenting.
+please visit https://m-inau.github.io/technical_documentation_how_to_/
