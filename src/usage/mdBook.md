@@ -1,7 +1,7 @@
 # mdBook
 
 ## Serve
-Serving this book is done by cloning [this repository](https://github.com/beeduhbee/technical_documentation_how_to) first as described in the chapter of [Git cloning](Git.md).
+Serving this book is done by cloning [this repository](https://github.com/m-inau/technical_documentation_how_to) first as described in the chapter of [Git cloning](Git.md).
 
 Installation of [mdBook and the mdbook-diagram](../tools/mdBook.md) plugin must also be finished. 
 
