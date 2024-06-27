@@ -1,0 +1,1 @@
+For better readability of this repo please visit [the HTML rendering of `Technical documentation how to`](https://m-inau.github.io/technical_documentation_how_to_/)
