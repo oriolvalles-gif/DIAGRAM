@@ -1,0 +1,8 @@
+@startuml DIAGRAM
+
+PERSON -> ELEVATOR: press de call button
+PERSON <- ELEVATOR: open doors
+PERSON -> ELEVATOR: enters in
+PERSON <- ELEVATOR: closes doors
+
+@enduml
