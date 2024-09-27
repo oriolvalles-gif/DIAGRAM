@@ -1,3 +1,4 @@
+```plantuml
 @startuml DIAGRAM
 
 PERSON -> ELEVATOR: press de call button
@@ -6,3 +7,4 @@ PERSON -> ELEVATOR: enters in
 PERSON <- ELEVATOR: closes doors
 
 @enduml
+```
